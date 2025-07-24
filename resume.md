@@ -43,14 +43,14 @@ My main achievements are:
 * Reduced Torchscript model's memory overhead which led to reduction of training jobs failing
   with OOM by 84%.
 
-## Software Engineer, Meta - Marketplace Search 
+### Software Engineer, Meta - Marketplace Search 
 <p align="right"> Mar 2020 - Aug 2021</p>
 I worked mostly in improving Marketplace search’s retrieval ranking model, improving recall of the search without losing accuracy.
 
 * Contributed significant portion of teams metric goals (NDCG, number of transactions, number of sessions).
 * Technologies used: Pytorch, deep neural recommender systems, A/B testing, feature engineering.
 
-## Software Engineer, Google - Search
+### Software Engineer, Google - Search
 <p align="right"> Jul 2017 - Mar 2020</p>
 I worked on an internal interactive ML library called Ranklab. Ranklab 
 is used by search engineer for analyzing different search signals and 
