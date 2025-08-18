@@ -80,7 +80,7 @@ Notable achievements:
 **Master of Engineering in Computer Science**
 
 
-Thesis: [BIDViz: Real-time Monitoring and Debugging of Machine Learning Training Processes](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-99.htm)
+Thesis: [BIDViz: Real-time Monitoring and Debugging of Machine Learning Training Processes](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-99.pdf)
 
 under supervision of prof. [John Canny](https://en.wikipedia.org/wiki/John_Canny)
 
