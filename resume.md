@@ -40,9 +40,6 @@ My main achievements are:
 
 * Designed and led the implemention of a new serialization format for pytorch models based on flatbuffer. This speeds up the loading of pytorch models up to 4 times. Reducing cold-start ML inference time Meta's mobile apps as well as applications running on VR devices.
 
-* Reduced Torchscript model's memory overhead which led to reduction of training jobs failing
-  with OOM by 84%.
-
 ### Software Engineer, Meta - Marketplace Search 
 <p align="right"> Mar 2020 - Aug 2021</p>
 I worked mostly in improving Marketplace search’s retrieval ranking model, improving recall of the search without losing accuracy.
