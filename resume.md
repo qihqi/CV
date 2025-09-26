@@ -1,6 +1,6 @@
 Han Qi
 =======
-* Email at: `${last_name}${first_name}.dev+jobs` AT gmail
+* Email at: `${last_name}${first_name}.dev` AT gmail
 * LinkedIn: hanqihanqi
 * X: @chch_gye
 
