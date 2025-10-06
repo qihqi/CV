@@ -15,7 +15,7 @@ have a great experience on Google's TPUs, and drive TPU sales on Google Cloud .
 
 My main achivements are:
 
-1. Designed and lead the implementation of [torchax](https://github.com/pytorch/xla/tree/master/torchax). This is a library for runnig PyTorch programs on TPU by using Jax as an backend. This library also enable PyTorch users to use advanced Jax features, such as `shard_map` and `pallas` kernel DSL.
+1. Designed and lead the implementation of [torchax](https://github.com/google/torchax). This is a library for runnig PyTorch programs on TPU by using Jax as an backend. This library also enable PyTorch users to use advanced Jax features, such as `shard_map` and `pallas` kernel DSL.
 
 2.  Designed and lead the implementation of jetstream-pytorch (https://github.com/AI-Hypercomputer/jetstream-pytorch); a high-throughput, multi-device LLM inference engine targetting TPUs. This is lauched in Google Cloud next 2024.
 
