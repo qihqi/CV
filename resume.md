@@ -2,12 +2,16 @@ Han Qi
 =======
 * Email at: `${last_name}${first_name}.dev` AT gmail
 * LinkedIn: hanqihanqi
-* X: @chch_gye
 
 ## Industry Experiences 
 
+### Member of Technical Staff, OpenAI - Scaling
+<p align="right"> Dec 2025 - Now</p>
+
+I am part of the Scaling org. We are responsible of managing the clusters that runs OpenAI workloads.
+
 ### Software Engineer, Google - Pytorch XLA
-<p align="right"> May 2023 - Now</p>
+<p align="right"> May 2023 - Dec 2025</p>
 
 At Google I am the tech lead and maintainer of the [PyTorch / XLA](https://github.com/pytorch/xla) OSS project. 
 At Google Cloud, I am the go-to person for everything Pytorch related. My mission here is to make Pytorch users 
